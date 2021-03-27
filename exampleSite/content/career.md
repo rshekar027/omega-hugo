@@ -4,7 +4,7 @@ layout: career
 description: Do what you enjoy, invest for your future and reap the benefits of working
   with the worlds first advancement company that puts people first.
 about:
-  enable: true
+  enable: false
   title: Who we're looking
   content: Bright, educated and hard working individuals who put professionalism first.
   video_thumb: ''
