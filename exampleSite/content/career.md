@@ -8,7 +8,7 @@ about:
   title: Who we're looking
   content: Bright, educated and hard working individuals who put professionalism first.
   video_thumb: ''
-  video_id: g3-VxLQO7do
+  video_id: ''
 gallery:
   enable: false
   images:
