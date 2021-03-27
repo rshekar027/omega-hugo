@@ -33,7 +33,7 @@ weight = 5
 author = "Themefisher"
 contact_info = "1001 Brickell bay <br>Dr. Miami, <br>FL 33131"
 description = "This is meta description"
-logo = "images/logo.png"
+logo = "/images/screen-shot-2021-03-26-at-8-08-59-pm.png"
 logo_width = "120px"
 preloader = true
 [params.cookies]
