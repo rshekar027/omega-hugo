@@ -7,16 +7,16 @@ about:
   enable: true
   title: Who we're looking
   content: Bright, educated and hard working individuals who put professionalism first.
-  video_thumb: images/promo-video-thumbnail.jpg
+  video_thumb: ''
   video_id: g3-VxLQO7do
 gallery:
-  enable: true
+  enable: false
   images:
   - images/gallery/gallery-01.png
   - images/gallery/gallery-02.png
   - images/gallery/gallery-03.png
 funfacts:
-  enable: true
+  enable: false
   title: amenities for you to enjoy
   funfacts_item:
   - name: Flexible hours
@@ -36,7 +36,7 @@ funfacts:
     content: Tight schedule, tell us so we can tailor the schedule that fits your
       needs.
 career:
-  enable: true
+  enable: false
   title: Job Opening
   job_item:
   - name: Android Developer
