@@ -22,13 +22,13 @@ vision:
   section: VISION
   vision_item:
   - title: People First
-    image: images/vision/vision-01.jpg
+    image: ''
     content: An atmosphere where people come first.
   - title: Employee Culture
-    image: images/vision/vision-02.jpg
+    image: ''
     content: An atmosphere where people come first.
   - title: The Bedroc Way
-    image: images/vision/vision-03.jpg
+    image: ''
     content: An atmosphere where people come first.
 product:
   enable: true
