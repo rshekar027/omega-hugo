@@ -1,9 +1,8 @@
 ---
 banner:
   enable: true
-  title: Solving complex problems with technology is our forte.
-  content: Solving the problems of today to see a tomorrow worth living and a past
-    worth remembering.
+  title: Advancement is Bedroc!
+  content: Simplifying complex problems with technology is our forte.
   image: "/images/hero-image/hero-slider-01.jpg"
   button:
     enable: true
