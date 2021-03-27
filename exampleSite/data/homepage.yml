@@ -15,7 +15,7 @@ mission:
   content: Introducing the world’s first Advancement Company. As we enter the dawn
     of the digital age a significant leap must be made to propel the world into the
     age of advancement.
-  video_thumb: images/video-thumb.jpg
+  video_thumb: ''
   video_id: ''
 vision:
   enable: true
@@ -29,7 +29,7 @@ vision:
     image: images/vision/vision-02.jpg
     content: I started with a vision of creating an atmosphere where people come first.
       <br>Paul Sanar Founder
-  - title: The Omega Way
+  - title: The Beroc Way
     image: images/vision/vision-03.jpg
     content: I started with a vision of creating an atmosphere where people come first.
       <br>Paul Sanar Founder
