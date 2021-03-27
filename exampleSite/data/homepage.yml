@@ -18,7 +18,7 @@ mission:
   video_thumb: ''
   video_id: ''
 vision:
-  enable: true
+  enable: false
   section: VISION
   vision_item:
   - title: People First
