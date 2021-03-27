@@ -23,39 +23,20 @@ vision:
   vision_item:
   - title: People First
     image: images/vision/vision-01.jpg
-    content: I started with a vision of creating an atmosphere where people come first.
-      <br>Paul Sanar Founder
+    content: An atmosphere where people come first.
   - title: Employee Culture
     image: images/vision/vision-02.jpg
-    content: I started with a vision of creating an atmosphere where people come first.
-      <br>Paul Sanar Founder
-  - title: The Beroc Way
+    content: An atmosphere where people come first.
+  - title: The Bedroc Way
     image: images/vision/vision-03.jpg
-    content: I started with a vision of creating an atmosphere where people come first.
-      <br>Paul Sanar Founder
+    content: An atmosphere where people come first.
 product:
   enable: true
   section: Products
   title: Some Of Our Best Products
-  content: See the innovation that has come through the Rio way. As an advancement
-    company, the goal is to continuously find areas to help business push forward.
-    Below you can find the first product available to help you do so.
-  product_item:
-  - title: Ecosystem
-    image: images/product/product-03.jpg
-    content: Omega OS Version 2.0 is the world’s first and only cloud operating system.
-      See how this revolutionarys oftware can become the center of your business.
-    project_url: "#"
-  - title: Objects
-    image: images/product/product-02.jpg
-    content: Omega OS Version 2.0 is the world’s first and only cloud operating system.
-      See how this revolutionarys oftware can become the center of your business.
-    project_url: "#"
-  - title: Publisher
-    image: images/product/product-03.jpg
-    content: Omega OS Version 2.0 is the world’s first and only cloud operating system.
-      See how this revolutionarys oftware can become the center of your business.
-    project_url: "#"
+  content: 'See the innovation that has come through the Rio way. As an advancement
+    company, the goal is to continuously find areas to help business push forward. '
+  product_item: []
 contact:
   enable: true
   section: CONTACT US
@@ -63,11 +44,11 @@ contact:
   image: images/map-bg.jpg
   content: The dawn of the digital age and the need for a significant leap forward
     is here. We believe that every business has the opportunity to move into this
-    new age with the right mindset. Contact us today to begin understanding how Omega
+    new age with the right mindset. Contact us today to begin understanding how Bedroc
     can propel your business.
 call_to_action:
   enable: true
-  title: Join the Omega family. <br>Click below to view the career opportunities we
-    have for you.
+  title: Join the Bedroc family. <br>Click below to view the career opportunities
+    we have for you.
   button_label: Apply Now
   button_link: career
